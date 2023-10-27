@@ -7,9 +7,6 @@
 | GroundingDINO (distill) | 350.4 | 661.8 |
 | YOLOv8l (distill) | 18.5 | 166.8 |
 | YOLOv8l (openvino) | 417.6 | 166.7 |
-| YOLOv8l (onnx) | 353.2 | 166.8 |  
-
-| Model  |inference, ms | size of model, mb |
-|---|---|---|  
+| YOLOv8l (onnx) | 353.2 | 166.8 |
 | AutoModelForQuestionAnswering | 230 | 253.2 |
 | ORTModelForQuestionAnswering | 331.72 | 473.3 |
